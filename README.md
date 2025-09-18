@@ -156,7 +156,7 @@ Build forecasting models (ARIMA, Prophet) for future sales prediction.
 
 ✨ Author
 
-👤 Your Name
+👤 Akash L
 
 Data Analyst | Python Enthusiast | SQL Learner
 
