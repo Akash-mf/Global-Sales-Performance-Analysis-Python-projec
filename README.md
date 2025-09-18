@@ -1,5 +1,6 @@
 # Global-Sales-Performance-Analysis-Python-project
 📊 Global Sales Performance Analysis using Python
+
 📌 Project Overview
 
 This project analyzes Amazon Sales Data using Python (Pandas, NumPy, Matplotlib, Seaborn) to uncover trends, patterns, and insights in sales performance.
